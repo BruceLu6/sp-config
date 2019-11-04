@@ -34,9 +34,4 @@ management:
         include: hystrix.stream
 
 
-#有默认规则可以不配
-#zuul:
- # routes:
-  #  item-service: /item-service/**
-   # user-service: /user-service/**
-   # order-service: /order-service/**
+
